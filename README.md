@@ -27,20 +27,20 @@
 
 # 📂 Featured Projects
 
-### 🛠️ [Custom C++ GUI Framework](https://github.com/Ali-Wael-Hassan/GUI)
+### 🛠️ [Custom C++ GUI Framework]([https://github.com/Ali-Wael-Hassan/GUI](https://github.com/Ali-Wael-Hassan/Windows-GUI))
 * **Target:** Windows (Win32 API) with **zero third-party UI libraries**.
 * **Features:** Implemented custom event loops, layout engines, and OS-level input fields.
 
-### 🧠 [Neural Network Engine](https://github.com/Ali-Wael-Hassan/Neural-Network)
+### 🧠 [Neural Network Engine]([https://github.com/Ali-Wael-Hassan/Neural-Network](https://github.com/Ali-Wael-Hassan/Neural-Network))
 * **Implementation:** Forward/backpropagation and manual matrix operations in raw C++.
 * **Result:** Integrated into *BicBrickBread* with 0% loss vs. random opponents.
 
-### 🎨 [Baby Photoshop (DUCK Editor)](https://github.com/Ali-Wael-Hassan/Baby-Photoshop)
+### 🎨 [Baby Photoshop (DUCK Editor)]([https://github.com/Ali-Wael-Hassan/Baby-Photoshop](https://github.com/Ali-Wael-Hassan/Baby_Photoshop))
 * **Tech:** C++, Qt6, QML, OpenGL.
 * **Impact:** Engineered 12+ pixel-level features, cutting manual editing steps by 60%.
 * **Award:** Recognized as "Best Mini Photoshop" at Winged Dragon 2025.
 
-### 📊 [Low-Level Data Structures](https://github.com/Ali-Wael-Hassan/Data-Structures)
+### 📊 [Low-Level Data Structures]([https://github.com/Ali-Wael-Hassan/Data-Structures](https://github.com/Ali-Wael-Hassan/Data-Structures))
 * **Focus:** Manual memory management and raw pointers for BSTs, Hash Maps, and Priority Queues.
 * **Performance:** Benchmarked directly against the C++ STL for time/space complexity.
 
