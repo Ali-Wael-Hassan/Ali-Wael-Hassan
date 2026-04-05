@@ -27,8 +27,6 @@
 
 # 📂 Featured Projects
 
-# 📂 Featured Projects
-
 ### 🛠️ [Custom C++ GUI Framework](https://github.com/Ali-Wael-Hassan/Windows-GUI)
 * **Target:** Windows (Win32 API) with **zero third-party UI libraries**.
 * **Features:** Implemented custom event loops, layout engines, and OS-level input fields.
