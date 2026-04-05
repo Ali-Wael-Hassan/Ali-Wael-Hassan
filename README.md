@@ -6,7 +6,7 @@
   </a>
 </p>
 
-**C++ Systems Engineer | Performance & Low-Level Specialist** ECPC 2025 Finalist and award-winning CS student at Cairo University (Top 2 of 200+). I specialize in building software from first principles—bypassing third-party libraries to engineer custom GUI frameworks, neural networks, and high-performance engines.
+**C++ Systems Engineer | Performance & Low-Level Specialist** ECPC 2025 Finalist. I specialize in building software from first principles—bypassing third-party libraries to engineer custom GUI frameworks, neural networks, and high-performance engines.
 
 * 🚀 **Current Focus:** Building a Win32 GUI framework from scratch.
 * 🏆 **Achievements:** Top 6 at Winged Dragon 2025 for "Best Mini Photoshop".
