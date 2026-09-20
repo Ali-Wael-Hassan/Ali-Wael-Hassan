@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/Ali-Wael-Hassan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=27AE60&width=475&lines=C%2B%2B+Systems+Engineer;Performance+%26+Low-Level+Specialist;ECPC+2025+Finalist;Building+Original+Software+from+Scratch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=27AE60&width=475&lines=C%2B%2B+Systems+Engineer;Performance+%26+Low-Level+Specialist;ECPC+2026+Finalist;Building+Original+Software+from+Scratch" alt="Typing SVG" />
   </a>
 </p>
 
